@@ -2,8 +2,8 @@ owner: wakatime
 repo: statuspage
 user-agent: alanhamlett
 sites:
-  - name: Website
-    url: https://wakatime.com
+  - name: JAGO
+    url: https://www.jagoanssh.com
   - name: API
     url: https://api.wakatime.com/api/v1/meta
   - name: Dashboard
